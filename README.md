@@ -10,9 +10,9 @@
     <li>Duração(quanto tempo o churrasco irá durar)</li>
 </ul>
 
-<img width="200px" src="../assets/churrasSemInformacao.png" alt="Churrascômetro sem informação">
-
-<img width="200px" src="../assets/churrasComInformacao.png" alt="Churrascômetro com informação">
+![Alt text](../assets/churrasSemInformacao.png?raw=true "Title")
+<p align="center">
+</p>
 
 <p>Esse projeto utiliza as Tecnologias..</p>
 <ul>
