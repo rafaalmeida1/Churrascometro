@@ -12,6 +12,10 @@
     <li>Duração(quanto tempo o churrasco irá durar)</li>
 </ul>
 
+<div align="center" float="left">
+    <img src="./assets/churrasSemInformacao.png" width="100">
+    <img src="./assets/churrasComInformacao.png" width="100">
+</div>
 
 <p style="color: red;">Esse projeto utiliza as Tecnologias..</p>
 <ul>
